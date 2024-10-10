@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'boltic-ios'
-    s.version          = '0.0.2'
+    s.version          = '4.1.11'
     s.summary          = 'A framework to validate and track events.'
   
   # This description is used to generate tags and improve search results.
