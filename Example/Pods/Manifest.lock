@@ -1,0 +1,22 @@
+PODS:
+  - boltic-ios (0.0.1)
+
+DEPENDENCIES:
+  - boltic-ios (from `https://github.com/sagargen/boltic-ios.git`, tag `0.0.1`)
+
+EXTERNAL SOURCES:
+  boltic-ios:
+    :git: https://github.com/sagargen/boltic-ios.git
+    :tag: 0.0.1
+
+CHECKOUT OPTIONS:
+  boltic-ios:
+    :git: https://github.com/sagargen/boltic-ios.git
+    :tag: 0.0.1
+
+SPEC CHECKSUMS:
+  boltic-ios: bfcbf1ee9ccc88f4c0ef220dbc0e4486154792a4
+
+PODFILE CHECKSUM: 61bd9a0f0d4b25db560da067f2a462f7d2393af5
+
+COCOAPODS: 1.15.2
