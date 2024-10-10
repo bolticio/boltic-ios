@@ -1,6 +1,0 @@
-framework module FyndAnalytics {
-  umbrella header "FyndAnalytics.h"
-  export *
-
-  module * { export * }
-}

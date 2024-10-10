@@ -19,9 +19,7 @@ Pod::Spec.new do |s|
     s.source           = { :git => 'https://github.com/bolticio/boltic-ios.git', :tag => s.version.to_s }
   
     s.ios.deployment_target = '12.0'
-  
-    s.source_files = 'Example/*'
-    
+      
     s.vendored_frameworks = 'Frameworks/FyndAnalytics.xcframework'
 
   end
